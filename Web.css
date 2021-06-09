@@ -1,0 +1,54 @@
+body{
+background-image:url("img2.jpg");
+}
+ 
+img{
+border-radius:10px;
+}
+
+ ul{
+background-color:white;
+overflow:auto;
+list-style-type:none;
+border-radius:15px;
+}
+
+a{
+color:black;
+}
+
+li{
+font-size:30px;
+color:black;
+padding:20px;
+float:right;
+font-family:Franklin Gothic;
+text-shadow:5px 5px 4px red;
+}
+li:hover{
+background-color:red;
+font-size:25px;
+font-family:Forte;
+border-radius:30px;
+transmition-poisition:2s;
+}	
+
+#demo{
+padding:30px;
+}
+
+h2{
+width:500px;
+border-radius:15px;
+font-size:60px;
+color:black;
+background-color:white;
+text-shadow:4px 4px 4px  red;
+cursor:grab;
+}
+
+h2:hover{
+color:gray;
+font-family:Georgia;
+}
+
